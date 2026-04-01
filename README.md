@@ -1,4 +1,4 @@
-# 🌙 RamaDiet 🇯🇴,
+# 🌙 RamaDiet 🇯🇴
 ### AI-Powered Nutrition Planner for a Healthier & Inclusive Ramadan
 
 Built during the **#Hack_Ramadan Hackathon** (March 2026) by team **"The Overfitters"**.
